@@ -1,8 +1,9 @@
-try:
-    import cPickle as pickle
-except ImportError:
-    import pickle
+#try:
+#    import cPickle as pickle
+#except ImportError:
+#    import pickle
 
+import pickle 
 import json
 
 try:
